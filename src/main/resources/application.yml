@@ -1,0 +1,22 @@
+# spring.cloud.vault:
+#     host: localhost
+#     port: 8200
+#     scheme: https
+#     uri: http://localhost:8200
+# #     ssl:
+# #       trust-store: classpath:/work/keystore.jks
+# #       trust-store-password: changeit
+#     connection-timeout: 5000
+#     read-timeout: 15000
+#     generic:
+#       enabled: true
+#     config:
+#       order: -10
+#     token: hvs.7GB7xtda9B6w0sKQSPJgHmhC
+
+# spring.cloud.vault:
+#     host: secman-dzo.solution.sbt
+#     port: 8200
+#     scheme: http
+#     uri: http://secman-dzo.solution.sbt:8200
+#     token: s.yyIaZIehCUlsUJ3qxt9AfbhU
